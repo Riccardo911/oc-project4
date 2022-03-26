@@ -1,0 +1,20 @@
+{
+  "name": "p4-project-updates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:.style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riccardo911/oc-project4.git"
+  },
+  "author": "Riccardo911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riccardo911/oc-project4/issues"
+  },
+  "homepage": "https://github.com/Riccardo911/oc-project4#readme"
+}
