@@ -7,11 +7,15 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-a,
 button {
     transition: all .3s ease-in-out;
     outline: none!important;
 }
+
+a {
+    transition: all .2s ease-in-out;
+}
+
 
 a:hover {
     text-decoration: none;
@@ -285,7 +289,6 @@ a:hover {
 
 #bloc-2-services p {
     font-size: 14px;
-    border: 1px solid black;
     width: 92%;
     text-align: justify;
     margin-bottom: 0px;
@@ -683,7 +686,31 @@ a {
 }
 
 p {                     /*paragraph font size*/
-    font-size: 12px;
+    font-size: 14px;
+}
+
+.services img{          /*responsive quote img*/
+    width: 100%;
+}
+
+footer a{
+    color: #FFFFFF!important;
+}
+
+footer a:hover{
+    border-bottom: 1px solid #F3976C; 
+}
+
+.col-sm-4{
+    font-size: 16px;
+}
+
+footer p{
+    font-size: 16px;
+}
+
+.cta h4{
+    position:relative;
 }
 
 .tight-width-whitespace {
@@ -769,7 +796,7 @@ h4 {
 }
 
 .service-header {
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -784,6 +811,16 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+}
+
+/*nav style*/
+
+li a:hover {
+    border-bottom: 4px solid #F3976C; 
+}
+
+.tc-white0 {
+    color: #FFFFFF!important;
 }
 
 .tc-white {
@@ -1050,5 +1087,12 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+}
+
+@media (max-width: 450px) {
+    .services img {
+        width: 108%;
+        margin-left:-4%;
     }
 }
