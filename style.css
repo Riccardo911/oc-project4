@@ -693,6 +693,11 @@ p {                     /*paragraph font size*/
     width: 100%;
 }
 
+.portfolio h2{
+    font-size:30px;
+    color: #000000!important;
+}
+
 footer a{
     color: #FFFFFF!important;
 }
