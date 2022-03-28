@@ -702,6 +702,11 @@ footer a{
     color: #FFFFFF!important;
 }
 
+footer li{
+    height: 48px;
+    padding-top: 15px;
+}
+
 footer a:hover{
     border-bottom: 1px solid #F3976C; 
 }
