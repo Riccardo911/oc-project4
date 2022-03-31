@@ -95,7 +95,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -885,11 +885,11 @@ li a:hover {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta-made-sign.jpg");
+    background-image: url("img/atlanta-made-sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta-made-sign-orange.jpg");
+    background-image: url("img/atlanta-made-sign-orange.webp");
 }
 
 @media (max-width: 1024px) {
