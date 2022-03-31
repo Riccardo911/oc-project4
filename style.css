@@ -516,9 +516,9 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    height: 30px;
+    height: 40px;
     padding:5px;
-    margin:10px;
+    margin:0;
     font-size: 16px;
 }
 
@@ -693,7 +693,7 @@ a {
 }
 
 p {                     /*paragraph font size*/
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .services img{          /*responsive quote img*/
@@ -1084,7 +1084,7 @@ li a:hover {
         margin-top: 30px;
     }
     form {
-        padding: 5px;
+        padding: 20px;
     }
     .close-lightbox {
         display: inline-block;
