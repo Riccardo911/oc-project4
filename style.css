@@ -885,11 +885,11 @@ li a:hover {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta-made-sign.avif");
+    background-image: url("img/atlanta-made-sign.jpg");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta-made-sign-orange_1.avif");
+    background-image: url("img/atlanta-made-sign-orange.jpg");
 }
 
 @media (max-width: 1024px) {
