@@ -755,6 +755,10 @@ footer p{
     margin: auto auto auto auto;
 }
 
+.social-tap{
+    margin: 20px 40px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
