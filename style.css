@@ -752,12 +752,14 @@ footer p{
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 20px auto 20px auto;
+    line-height: 4;
 }
 
 .social-tap{
-    margin: 20px 40px;
+    padding: 16px;
 }
+
 
 h2 {
     font-size: 22px;
@@ -1020,7 +1022,7 @@ li a:hover {
         color: rgba(255, 255, 255, .6);
     }
     .hero {
-        padding: 50px 0;
+        padding: 0;
     }
     .hero-nav {
         left: -1px;
