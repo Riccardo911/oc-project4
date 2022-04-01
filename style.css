@@ -852,7 +852,7 @@ li a:hover {
 }
 
 .btn-atomic-tangerine0{
-    background: #364577;
+    background: #05AD00;
     color: #FFFFFF!important;
 }
 
@@ -862,12 +862,17 @@ li a:hover {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #035700;
+    color: #FFFFFF!important;
+}
+
+.btn-atomic-tangerine:hover {
+    background: #7dae7b!important;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine0:hover {
-    background: #525d81!important;
+    background: #7dae7b!important;
     color: #FFFFFF!important;
 }
 
